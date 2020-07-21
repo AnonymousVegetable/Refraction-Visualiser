@@ -7,6 +7,4 @@ Controls:
 - '9', '0' keys change refraction index value for bottom medium
 
 <br/><br/>
-<br/><br/>
-
 ![](https://github.com/AnonymousVegetable/Refraction-Visualiser/blob/master/example.png "Example Screenshot")
