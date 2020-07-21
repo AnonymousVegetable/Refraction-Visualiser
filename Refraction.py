@@ -18,6 +18,7 @@ pygame.init()
 resolution = (1500, 900)
 
 window = pygame.display.set_mode(resolution)
+pygame.display.set_caption('Refraction Visualiser')
 
 myfont = pygame.font.SysFont('Comic Sans MS', 30)
 
